@@ -8,3 +8,6 @@ The dataset I have chosen to work with was downloaded from the UCI Machine Learn
 The objectives of the project are to take this dataset and perform the necessary pre-processing steps in order to get the data into the desired state for machine learning algorithm training. To perform statistical analysis on and analyse the distributions of the different features of the data. To identify how we can reduce the dimensionality of this dataset to its most critical components.
 
 Finally to select, train and test a machine learning algorithm to distinguish between the metastatic and benign samples in the dataset and to generate a success score for said model. To be clear I will only be using data from within this dataset but through cross validation we will be able to train and test on different parts of the dataset.
+
+## Acknowledgments
+Dua, D. and Graff, C. (2019). UCI Machine Learning Repository [http://archive.ics.uci.edu/ml]. Irvine, CA: University of California, School of Information and Computer Science.
